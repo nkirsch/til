@@ -20,6 +20,10 @@ forked [aicioara/til](https://github.com/aicioara/til/) instead.
 
 - [Today I Learned](meta/today-i-learned.md)
 
+### reading
+
+- [Text Mode Rss](reading/text-mode-rss.md)
+
 ### social
 
 - [Indieweb](social/indieweb.md)
