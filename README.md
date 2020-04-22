@@ -1,10 +1,9 @@
-# TIL
 
-> Today I Learned
+# Today I Learned
 
-
-A collection of software engineering tips that I learn every day.
-
+Wow! I only discovered this when [simonw/til](https://github.com/simonw/til)
+appeared [on Hacker News](https://news.ycombinator.com/item?id=22920437), but
+forked [aicioara/til](https://github.com/aicioara/til/) instead.
 ---
 
 ### github
@@ -14,8 +13,4 @@ A collection of software engineering tips that I learn every day.
 ### meta
 
 - [Today I Learned](meta/today-i-learned.md)
-
-### terminal
-
-- [Command Timestamps](terminal/command-timestamps.md)
 
