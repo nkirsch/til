@@ -6,6 +6,14 @@ appeared [on Hacker News](https://news.ycombinator.com/item?id=22920437), but
 forked [aicioara/til](https://github.com/aicioara/til/) instead.
 ---
 
+### console
+
+- [Rpi Tweetstreem Console](console/rpi-tweetstreem-console.md)
+
+### cooking
+
+- [Potatoes](cooking/potatoes.md)
+
 ### data
 
 - [Apollo](data/apollo.md)
